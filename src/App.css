@@ -15,5 +15,6 @@
 
 .content {
   margin: 0 auto;
+  padding: 0.625rem;
   max-width: 736px;
 }
