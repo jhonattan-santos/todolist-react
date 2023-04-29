@@ -1,8 +1,7 @@
 .form {
   width: 100%;
   display: flex;
-  align-itens: center;
-  margin-top: -1.6875rem;
+  margin-top: -2.2rem;
 }
 
 .form > input {
@@ -28,8 +27,6 @@
   border-radius: 8px;
 
   /* Inside auto layout */
-
-  flex: none;
   order: 0;
   flex-grow: 1;
 }
@@ -53,8 +50,6 @@
   border: none;
 
   /* Inside auto layout */
-
-  flex: none;
   order: 1;
   flex-grow: 0;
 
